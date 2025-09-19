@@ -2,7 +2,7 @@
 ### MUST Busters Project
 
 
-For detailed sharing instructions, see [share-it.md](./SHARE-IT.md).
+This repository is in compliance with the SHARE IT Act (Secure, Harmonized, and Accountable Resource Efficiency for Information Technology), see [SHARE-IT.md](./SHARE-IT.md).
 
 
 ## 🌐 Overview
