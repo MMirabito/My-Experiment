@@ -45,7 +45,7 @@ cd must-tool
 pip install -r requirements.txt
 ```
 
-**⚖️ SHARE IT Act Information**
+## ⚖️ SHARE IT Act Information**
 
 This repository is in compliance with the SHARE IT Act (Secure, Harmonized, and Accountable Resource Efficiency for Information Technology). This section can be updated according to the [CDC Metadata Implementation Guide](https://docs.cdc.gov/docs/ea/codeshare/implementation-guide#readmemd-override-optional-markers).
 
