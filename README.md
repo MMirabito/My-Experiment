@@ -62,6 +62,22 @@ For More Information or access to the source code see below:
 - Exemption: NA
 
 
+**SHARE IT Act Information**
+
+The following markers are to support the implementation of the SHARE IT Act. This section can be updated according to the [CDC Metadata Implementation Guide](https://docs.cdc.gov/docs/ea/codeshare/implementation-guide#readmemd-override-optional-markers).
+
+``` md
+Organization: National Center for HIV, Viral Hepatitis, STD, and Tuberculosis 
+Organization Email: adgapps@cdc.gov
+Contact Name: NCHHSTP Informatics Office
+Contact Email: adgapps@cdc.gov
+Version: 0.9.x
+Status: Active
+Keywords: MUST Busters, Multi-User Share Tool, Python, SQLLite, Excel, Informatics, IT 
+Contract#: NA
+Exemption: NA
+```
+
 
 ## 📝 AI Contribution Notice 
 - This project includes source code and documentation created with assistance from AI-based tools such as GitHub Copilot and other large language model (LLM) technologies. These tools were employed to accelerate development, support brainstorming, and enhance productivity.  
